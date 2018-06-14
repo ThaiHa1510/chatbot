@@ -1,0 +1,15 @@
+{
+    "name": "botmortor",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "6c185360-6e51-11e8-9bba-5bafae1817c9",
+            "name": "bot_motor",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "localhost:3978"
+        }
+    ]
+}
